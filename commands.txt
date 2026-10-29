@@ -1,5 +1,12 @@
-    1  git config --global user.name "gokulnath-d2589"
-    2  git config --global user.email "gokulnathdharmalingam2004@gmail.com"
-    3  git clone https://github.com/gokulnath-d2589/Linux1.git
-    4  cd Linux1
-    5  history > commands.txt
+    1  history > commands.txt
+    2  git add commands.txt
+    3  ls
+    4  cat commands.txt
+    5  ls -la
+    6  git clone https://github.com/gokulnath-d2589/Linux1.git
+    7  cd Linux1
+    8  pwd
+    9  ls -la
+   10  ls
+   11  git status
+   12  history > commands.txt
