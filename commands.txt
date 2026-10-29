@@ -10,3 +10,54 @@
    10  ls
    11  git status
    12  history > commands.txt
+   13  git add commands.txt
+   14  git commit -m "Practice update"
+   15  git push
+   16  ls
+   17  history > commands.txt
+   18  java Praticejava.java
+   19  mkdir java
+   20  cd java
+   21  nano Hello.java
+   22  rm Hello.java
+   23  nano file1.txt
+   24  cat file1.txt
+   25* 
+   26  cp /Hello.java .
+   27  cp /Hello.java
+   28* 
+   29  cp /path/to/file1.txt
+   30  cp /path/to/file1.txt .
+   31  cp /file1.txt .
+   32  git add file1.txt
+   33  git commit -m "Add file1"
+   34  git commit -m "Add file1.txt"
+   35  git push
+   36  git status
+   37  cd..
+   38  cd ''
+   39  cd ..
+   40  ls
+   41  ls -la
+   42  git ls-files
+   43  git status
+   44  git log --oneline
+   45  git ls-files
+   46  mkdir Praticejava
+   47  cd Praticejava
+   48  nano javaPratice.java
+   49  javac javaPratice.java
+   50  apt install openjdk-17-jdk
+   51  javac javaPratice.java
+   52  java javaPratice
+   53  git add .
+   54  git commit -m "Today's practice"
+   55  git config --global user.name "gokulnath-d2589"
+   56  git config --global user.email "gokulnathdharmalingam2004@gmail.com"
+   57  git config --global user.name
+   58  git config --global user.email
+   59  git add .
+   60  git commit -m "Today's practice"
+   61  git push
+   62  git status
+   63  history > ~/Linux1/commands.txt
