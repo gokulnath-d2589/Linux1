@@ -61,3 +61,10 @@
    61  git push
    62  git status
    63  history > ~/Linux1/commands.txt
+   64  cd ..
+   65  git add .
+   66  git commit -m "Today's practice"
+   67  git push
+   68  history > ~/Linux1/commands.txt
+   69  history > commands.txt
+   70  history > ~/Linux1/commands.txt
